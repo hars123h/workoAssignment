@@ -10,8 +10,8 @@
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-repo/mvc-crud-app.git
-   cd mvc-crud-app
+   git clone https://github.com/hars123h/workoassignment.git
+   cd workoassignment
 
 2. Install dependencies:
    npm install
