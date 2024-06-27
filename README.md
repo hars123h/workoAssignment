@@ -22,7 +22,7 @@
    JWT_SECRET=your_jwt_secret
 
 API Endpoints
-  POST /api/auth/register: Register a new user.
+  POST /api/auth/register: Register a new user. 
   POST /api/auth/login: Login and get a token.
   POST /api/worko/user: Create a new user (requires authentication).
   GET /api/worko/user: Get all users (requires authentication).
