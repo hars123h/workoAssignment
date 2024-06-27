@@ -22,17 +22,21 @@
    JWT_SECRET=your_jwt_secret
 
 API Endpoints
+
   POST /api/auth/register: Register a new user. 
+  
   POST /api/auth/login: Login and get a token.
+  
   POST /api/worko/user: Create a new user (requires authentication).
+  
   GET /api/worko/user: Get all users (requires authentication).
-  GET /api/worko/user/
-  : Get user by ID (requires authentication).
-  PUT /api/worko/user/
-  : Update user by ID (requires authentication).
-  PATCH /api/worko/user/
-  : Partially update user by ID (requires authentication).
-  DELETE /api/worko/user/
- : Soft delete user by ID (requires authentication).
+  
+  GET /api/worko/user/: Get user by ID (requires authentication).
+  
+  PUT /api/worko/user/: Update user by ID (requires authentication).
+  
+  PATCH /api/worko/user/ : Partially update user by ID (requires authentication).
+  
+  DELETE /api/worko/user/ : Soft delete user by ID (requires authentication).
 
  
